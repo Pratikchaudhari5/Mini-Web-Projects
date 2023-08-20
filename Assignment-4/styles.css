@@ -1,0 +1,41 @@
+body, h1, h2, p {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+}
+
+header {
+    background-color: #333;
+    color: white;
+    text-align: center;
+    padding: 1rem 0;
+}
+
+.faq {
+    margin: 2rem;
+}
+
+.faq-item {
+    border: 1px solid #ddd;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    background-color: white;
+}
+
+.faq-item h2 {
+    cursor: pointer;
+}
+
+.answer {
+    transition: max-height 0.3s ease-in-out;
+    overflow: hidden;
+    max-height: 0;
+}
+
+.answer.show {
+    max-height: 200px; /* Adjust the value as needed */
+}
