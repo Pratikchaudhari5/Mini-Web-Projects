@@ -7,7 +7,7 @@ Title : building Your first web page.<br>
 Aim : Create a simple webpage using HTML , CSS , JavaScript.<br>
     After clicking on the click me it opens the alert then it opens the email. <br>
 Link : https://signifytechnologies-assignment1.netlify.app/
-
+<br>
 <img src="https://i.imgur.com/24ApAHa.png" alt="Assignment 1" width="200"/>
 Assignment 2 : 
 Structuring and styling content with CSS<br> 
