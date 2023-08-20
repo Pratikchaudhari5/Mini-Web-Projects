@@ -1,7 +1,7 @@
 # SignifyTechnologies-Assignments
 <img src="https://i.imgur.com/biKqfC9.png" alt="Assignment 1" width="200"/>
 
-Assignment 1 : 
+ -Item 1 Assignment 1 : 
 Introduction to HTML , CSS , JavaScript<br> 
 Title : building Your first web page.<br>
 Aim : Create a simple webpage using HTML , CSS , JavaScript.<br>
