@@ -1,0 +1,60 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ccc;
+    margin: 0;
+    padding: 0;
+    
+}
+
+header {
+    background-color: #4a90e2;
+    color: white;
+    padding: 10px;
+    text-align: center;
+    font-size: 24px;
+}
+.project-container {
+    display: flex; /* Display projects in a row */
+    justify-content: space-between; /
+    flex-wrap: wrap; /* Wrap to new row if space is not enough */
+    padding: 20px; 
+}
+.project {
+    width: 300px;
+    padding: 20px;
+    border: 1px solid #000;
+    margin: 20px;
+    transition: transform 0.3s ease; /* Smooth transformation */
+    overflow: hidden;
+}
+
+.project img {
+    max-width: 100%;
+}
+
+.project h2 {
+    margin-top: 10px;
+    font-size: 24px;
+    color: #333;
+}
+
+.project p {
+    color: #666;
+}
+
+.project:hover {
+    transform: scale(1.05); /* Ebecome big when mouse points on it. */
+}
+
+@keyframes bounce {
+    0%, 100% {
+        transform: translateY(0);
+    }
+    50% {
+        transform: translateY(-10px);
+    }
+}
+
+.project h2 {
+    animation: bounce 2s infinite; /* bounce animation */
+}
