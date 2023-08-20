@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Building a Contact Form</title>
+</head>
+<header>
+    Contact Form
+</header>
+<body>
+    <form id="contact-form">
+        <label for="name">Name:</label>
+        <input type="text" id="name" placeholder="Enter your name" required>
+        <label for="email">Email:</label>
+        <input type="email" id="email" placeholder="Enter your email" required>
+        <label for="message">Message:</label>
+        <textarea id="message" placeholder="Enter your message" required></textarea>
+        <button type="submit">Submit</button>
+    </form>
+    <div id="error-messages"></div>
+    <script src="script.js"></script>
+</body>
+</html>
