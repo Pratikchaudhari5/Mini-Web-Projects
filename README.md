@@ -5,7 +5,7 @@
 Title : building Your first web page.<br>
 Aim : Create a simple webpage using HTML , CSS , JavaScript.<br>
     After clicking on the click me it opens the alert then it opens the email. <br>
-Github : https://github.com/Pratikchaudhari5/SignifyTechnologies-Assignments/tree/main/Signify%20-%20Assignments/Assignment-1
+Github : https://github.com/Pratikchaudhari5/SignifyTechnologies-Assignments/tree/main/Signify%20-%20Assignments/Assignment-1 <br>
 Link : https://signifytechnologies-assignment1.netlify.app/
 <br>
 
@@ -14,7 +14,7 @@ Link : https://signifytechnologies-assignment1.netlify.app/
 * Structuring and styling content with CSS<br> 
 Title : Creating a styled blog post.<br>
 Aim : Build a blogpost layout with proper HTML structure and enhanced styling using advanced css features.<br>
-Github : https://github.com/Pratikchaudhari5/SignifyTechnologies-Assignments/tree/main/Assignment-2
+Github : https://github.com/Pratikchaudhari5/SignifyTechnologies-Assignments/tree/main/Assignment-2 <br>
 Link : https://signifytechnologies-assignment2.netlify.app/
 
 # Assignment 3 : 
@@ -23,7 +23,7 @@ Link : https://signifytechnologies-assignment2.netlify.app/
 Title :  Designing a Responsive Portfolio.<br>
 Aim : Develop a responsive webpage layout using Flexbox and media queries to cater to
 various screen sizes.<br>
-Github : https://github.com/Pratikchaudhari5/SignifyTechnologies-Assignments/tree/main/Assignment-3
+Github : https://github.com/Pratikchaudhari5/SignifyTechnologies-Assignments/tree/main/Assignment-3 <br>
 Link : https://signifytechnologies-assignment3.netlify.app/
 
 # Assignment 4 : 
@@ -32,7 +32,7 @@ Link : https://signifytechnologies-assignment3.netlify.app/
 Title : : Interactive FAQ Page.<br>
 Aim :Design an interactive FAQ page with expandable sections using JavaScript for
 enhanced user experience.<br>
-Github : https://github.com/Pratikchaudhari5/SignifyTechnologies-Assignments/tree/main/Assignment-4
+Github : https://github.com/Pratikchaudhari5/SignifyTechnologies-Assignments/tree/main/Assignment-4 <br>
 Link : https://signifytechnologies-assignment4.netlify.app/
 
 # Assignment 5 : 
@@ -41,7 +41,7 @@ Link : https://signifytechnologies-assignment4.netlify.app/
 Title: Styling a Pricing Table.<br>
 Aim :Design an appealing pricing table with detailed CSS styling using Grid and advanced
 CSS features.<br>
-Github : https://github.com/Pratikchaudhari5/SignifyTechnologies-Assignments/tree/main/Assignment-5
+Github : https://github.com/Pratikchaudhari5/SignifyTechnologies-Assignments/tree/main/Assignment-5 <br>
 Link : https://signifytechnologies-assignment5.netlify.app/
 
 
