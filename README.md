@@ -53,3 +53,12 @@ form styling.<br>
 Github : https://github.com/Pratikchaudhari5/SignifyTechnologies-Assignments/tree/main/Assignment-6 <br>
 Link : https://signifytechnologies-assignment6.netlify.app/
 
+# Assignment 7: 
+<img src="https://i.imgur.com/dEN8ZtW.png" alt="Assignment 7" width="200"/>
+* CSS Transitions and Animations.<br> 
+Title: : Animate your portfolio.<br>
+Aim :Apply CSS transitions and keyframe animations to enhance user experience and
+visual appeal.<br>
+Github : https://github.com/Pratikchaudhari5/SignifyTechnologies-Assignments/tree/main/Assignment-7 <br>
+Link : https://signifytechnologies-assignment7.netlify.app/
+
