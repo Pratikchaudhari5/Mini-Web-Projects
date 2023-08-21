@@ -68,7 +68,7 @@ Link : https://signifytechnologies-assignment7.netlify.app/
 Title: :  Creating a Magazine Layout.<br>
 Aim : Build a complex magazine-style layout using CSS Grid and Flexbox for advanced
 page structures.<br>
-reference : i had created the layout by seeing https://www.javatpoint.com/java-tutorial this website.
+reference : i had created the layout by seeing https://www.javatpoint.com/java-tutorial this website. <br>
 Github : https://github.com/Pratikchaudhari5/SignifyTechnologies-Assignments/tree/main/Assignment-8 <br>
 Link : https://signifytechnologies-assignment8.netlify.app/
 
