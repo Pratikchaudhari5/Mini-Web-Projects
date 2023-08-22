@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f7f7f7;
+  }
+  
+  header {
+    background-color: rgb(62, 139, 227);
+    color: #fff;
+    text-align: center;
+    padding: 1rem;
+  }
+  
+  main {
+    padding: 2rem;
+  }
+  
+  article {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    padding: 1rem;
+    margin-bottom: 2rem;
+  }
+  
+ 
+ 
+  .img-canvas-iframe-container {
+  
+    display: flex; /* flexbox = align items in a row */
+    align-items: center; /* Center items vertically */
+    justify-content: space-evenly;
+  }
+
+  img {
+    border: 1px solid #000;
+   
+    
+  }
+  #canvas {
+    border: 1px solid #000;
+    margin: 2rem;
+  }
+  
+  /* Iframe styles */
+  iframe {
+border: 1px solid #000;
+    margin: 2rem ;
+  }
+  
