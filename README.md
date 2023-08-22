@@ -63,7 +63,7 @@ Github : https://github.com/Pratikchaudhari5/SignifyTechnologies-Assignments/tre
 Link : https://signifytechnologies-assignment7.netlify.app/
 
 # Assignment 8: 
-<img src="https://i.imgur.com/iU96OPh.png" alt="Assignment 7" width="200"/>
+<img src="https://i.imgur.com/iU96OPh.png" alt="Assignment 8" width="200"/>
 * Complex Layouts with CSS Grid and Flexbox.<br> 
 Title: :  Creating a Magazine Layout.<br>
 Aim : Build a complex magazine-style layout using CSS Grid and Flexbox for advanced
@@ -72,3 +72,11 @@ reference : i had created the layout by seeing https://www.javatpoint.com/java-t
 Github : https://github.com/Pratikchaudhari5/SignifyTechnologies-Assignments/tree/main/Assignment-8 <br>
 Link : https://signifytechnologies-assignment8.netlify.app/
 
+# Assignment 9: 
+<img src="https://i.imgur.com/mKvAmjZ.png" alt="Assignment 9" width="200"/>
+* Responsive Navigation and Accessibility.<br> 
+Title: : Designing a Navigation Menu.<br>
+Aim :Design a responsive navigation menu with accessibility considerations and
+interactive behavior.<br>
+Github : https://github.com/Pratikchaudhari5/SignifyTechnologies-Assignments/tree/main/Assignment-9 <br>
+Link : https://signifytechnologies-assignment9.netlify.app/
