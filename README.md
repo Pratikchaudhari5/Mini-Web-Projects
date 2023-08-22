@@ -78,5 +78,16 @@ Link : https://signifytechnologies-assignment8.netlify.app/
 Title: : Designing a Navigation Menu.<br>
 Aim :Design a responsive navigation menu with accessibility considerations and
 interactive behavior.<br>
+***Added the logo in header and make it mobile responsive.<br>
 Github : https://github.com/Pratikchaudhari5/SignifyTechnologies-Assignments/tree/main/Assignment-9 <br>
 Link : https://signifytechnologies-assignment9.netlify.app/
+
+# Assignment 10: 
+<img src="https://i.imgur.com/Upnh7mS.png" alt="Assignment 9" width="200"/>
+* : Advanced Styling and Customization with Meta Tags, Canvas, and Iframes.<br> 
+Title: : Customizing a Blog Theme.<br>
+Aim :Customize an existing blog theme by integrating advanced CSS features and
+JavaScript interactivity, including meta tags, canvas, and iframes.<br>
+***Added the favicon in it, youtube video in iframe and canvas for drawing. <br>
+Github : https://github.com/Pratikchaudhari5/SignifyTechnologies-Assignments/tree/main/Assignment-10 <br>
+Link : https://signifytechnologies-assignment10.netlify.app/
