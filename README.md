@@ -100,3 +100,13 @@ Aim :Create an interactive image gallery and embed videos using HTML5's image an
 media elements.<br>
 Github : https://github.com/Pratikchaudhari5/SignifyTechnologies-Assignments/tree/main/Assignment-11<br>
 Link : https://signifytechnologies-assignment11.netlify.app/
+
+# Assignment 12: 
+<img src="https://i.imgur.com/Z066nZ9.png" alt="Assignment 11" width="200"/>
+*Advanced Styling and Media Queries for Images.<br> 
+Title: Artistic Image Showcase.<br>
+Aim :: Design an artistic image showcase with responsive images and media queries for
+different devices.<br>
+***Added the marvel heros images for this assignment.
+Github : https://github.com/Pratikchaudhari5/SignifyTechnologies-Assignments/tree/main/Assignment-12 <br>
+Link : https://signifytechnologies-assignment12.netlify.app/
