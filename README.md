@@ -93,7 +93,7 @@ Github : https://github.com/Pratikchaudhari5/SignifyTechnologies-Assignments/tre
 Link : https://signifytechnologies-assignment10.netlify.app/
 
 # Assignment 11: 
-<img src="https://i.imgur.com/Z066nZ9.png" alt="Assignment 11" width="200"/>
+<img src="https://i.imgur.com/8cad9WJ.png" alt="Assignment 11" width="200"/>
 * Working with Images and Media Elements.<br> 
 Title: :Image Gallery and Video Embedding.<br>
 Aim :Create an interactive image gallery and embed videos using HTML5's image and
@@ -102,7 +102,7 @@ Github : https://github.com/Pratikchaudhari5/SignifyTechnologies-Assignments/tre
 Link : https://signifytechnologies-assignment11.netlify.app/
 
 # Assignment 12: 
-<img src="https://i.imgur.com/15bbndr.png" alt="Assignment 12" width="200"/>
+<img src="https://i.imgur.com/sQtQOkN.png" alt="Assignment 12" width="200"/>
 *Advanced Styling and Media Queries for Images.<br> 
 Title: Artistic Image Showcase.<br>
 Aim :: Design an artistic image showcase with responsive images and media queries for
