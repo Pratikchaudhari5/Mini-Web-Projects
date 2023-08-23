@@ -102,7 +102,7 @@ Github : https://github.com/Pratikchaudhari5/SignifyTechnologies-Assignments/tre
 Link : https://signifytechnologies-assignment11.netlify.app/
 
 # Assignment 12: 
-<img src="https://i.imgur.com/Z066nZ9.png" alt="Assignment 11" width="200"/>
+<img src="https://i.imgur.com/15bbndr.png" alt="Assignment 12" width="200"/>
 *Advanced Styling and Media Queries for Images.<br> 
 Title: Artistic Image Showcase.<br>
 Aim :: Design an artistic image showcase with responsive images and media queries for
