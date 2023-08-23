@@ -83,7 +83,7 @@ Github : https://github.com/Pratikchaudhari5/SignifyTechnologies-Assignments/tre
 Link : https://signifytechnologies-assignment9.netlify.app/
 
 # Assignment 10: 
-<img src="https://i.imgur.com/Upnh7mS.png" alt="Assignment 9" width="200"/>
+<img src="https://i.imgur.com/Upnh7mS.png" alt="Assignment 10" width="200"/>
 * : Advanced Styling and Customization with Meta Tags, Canvas, and Iframes.<br> 
 Title: : Customizing a Blog Theme.<br>
 Aim :Customize an existing blog theme by integrating advanced CSS features and
@@ -91,3 +91,12 @@ JavaScript interactivity, including meta tags, canvas, and iframes.<br>
 ***Added the favicon in it, youtube video in iframe and canvas for drawing. <br>
 Github : https://github.com/Pratikchaudhari5/SignifyTechnologies-Assignments/tree/main/Assignment-10 <br>
 Link : https://signifytechnologies-assignment10.netlify.app/
+
+# Assignment 11: 
+<img src="https://i.imgur.com/Z066nZ9.png" alt="Assignment 11" width="200"/>
+* Working with Images and Media Elements.<br> 
+Title: :Image Gallery and Video Embedding.<br>
+Aim :Create an interactive image gallery and embed videos using HTML5's image and
+media elements.<br>
+Github : https://github.com/Pratikchaudhari5/SignifyTechnologies-Assignments/tree/main/Assignment-11<br>
+Link : https://signifytechnologies-assignment11.netlify.app/
