@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Image Gallery and Video Embedding</title>
+</head>
+<body>
+    <header>
+        <div class="logo">
+          <img src="images/SignifyTechnologieslogo.png" alt="Signify Technologies Logo">
+        </div>
+        <h1>Image Gallery and Video Embedding</h1>
+
+    </header>
+
+    <div class="gallery">
+        <a href="images/AncientIndia.jpg" data-lightbox="gallery"><img src="images/AncientIndia.jpg" alt="Image 1"></a>
+        <a href="images/HealthyFood.jpg" data-lightbox="gallery"><img src="images/HealthyFood.jpg" alt="Image 2"></a>
+        <a href="images/ReadingBooks.jpg" data-lightbox="gallery"><img src="images/ReadingBooks.jpg" alt="Image 3"></a>
+
+    </div>
+
+    <div class="videos">
+        <video controls>
+            <source src="videos/keyboard.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
+        <video controls>
+            <source src="videos/nature.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
+        <video controls>
+            <source src="videos/street.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+        </video>
+    </div>
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
+</body>
+</html>
