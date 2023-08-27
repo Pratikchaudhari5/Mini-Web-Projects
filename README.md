@@ -107,6 +107,15 @@ Link : https://signifytechnologies-assignment11.netlify.app/
 Title: Artistic Image Showcase.<br>
 Aim :: Design an artistic image showcase with responsive images and media queries for
 different devices.<br>
-***Added the marvel heros images for this assignment.
+***Added the marvel heros images for this assignment. <br>
 Github : https://github.com/Pratikchaudhari5/SignifyTechnologies-Assignments/tree/main/Assignment-12 <br>
 Link : https://signifytechnologies-assignment12.netlify.app/
+
+# Assignment 13: 
+<img src="https://i.imgur.com/QcV4cVf.png" alt="Assignment 12" width="200"/>
+*Video Background and Media Controls.<br> 
+Title: Creating a Video Background.<br>
+Aim : Implement a video background with overlay content and customize media controls
+using HTML5 and CSS. <br>
+Github : https://github.com/Pratikchaudhari5/SignifyTechnologies-Assignments/tree/main/Assignment-13 <br>
+Link : https://signifytechnologies-assignment13.netlify.app/
